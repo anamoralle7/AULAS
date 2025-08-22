@@ -1,6 +1,6 @@
 //introdução
-console.log("Bem vindo ao Banco do Brasil!")
-alert("Bem vindo ao Banco do Brasil!")
+console.log("Bem vindo ao Banco")
+alert("Bem vindo ao Banco ")
 
 //senha
  var senha = 0
