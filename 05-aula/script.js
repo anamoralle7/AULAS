@@ -29,8 +29,9 @@ var objeto = {
      tamanho : media,
     cor : azul,
     preço : 1,5
+console.log(objeto.cor)
 }
-console.log(objeto.cor);
+
 
 // criando obj
  var garrafa = {}
